@@ -9,3 +9,7 @@ i = 0
 while i < num:
     print(word)
     i += 1
+
+for i in range (0,num):
+    print(word)
+    
